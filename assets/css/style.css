@@ -53,7 +53,6 @@ footer div {
 footer a {
     color: #024e76;
 }
-.hero-form h3 {
-    margin: 0;
-    font-size: 25px;
+section {
+    padding: 60px;
 }

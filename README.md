@@ -12,3 +12,5 @@ https://londonlast21.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Jack Cady
+
+### Run Buddy Inc

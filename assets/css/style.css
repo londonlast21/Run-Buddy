@@ -58,7 +58,7 @@ section {
 }
 /* Hero Style Start */
 .hero {
-    background-image: url("../images/hero-bg.jpg");
+    background-image: url("https://londonlast21.github.io/run-buddy/assets/Images/hero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;

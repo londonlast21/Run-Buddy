@@ -171,22 +171,29 @@ width: 50%;
     font-size: 46px;
     flex: 1 30%;
 }
+
+/*subcontainers in steps section styling*/
 .step-info {
     flex: 2 70%;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
 }
+
 .step-img {
-    flex: 1.12%;
+    flex: 1 12%;
     margin-right: 20px;
 }
-.step-img img {
-    max-width: 100%;
-}
+
 .step-text {
     flex: 12;
 }
+
+.step-img img {
+    max-width: 100%;
+}
+
+
 .step-text p {
     color: #39a6b2;
     font-size: 18px;

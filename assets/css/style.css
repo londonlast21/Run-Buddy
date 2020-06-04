@@ -141,6 +141,8 @@ width: 50%;
 .secondary-border {
     border-color: #39a6b2;
 }
+/*end title styling*/
+
 
 /* intro section styling */
 
@@ -152,6 +154,7 @@ width: 50%;
     margin: 0 auto;
     text-align: center;
 }
+/*end intro styling*/
 
 /* what you do steps section */
 .step {
@@ -204,7 +207,7 @@ width: 50%;
     line-height: 1.5;
     color: #024e76;
 }
-
+/*subcontainers styling end*/
 
 /* Trainers section styling */
 .trainers {
@@ -220,7 +223,7 @@ width: 50%;
     color: #fce138;
     flex: 1;
 }
-/*up to here correct*/
+
 .trainer img {
     width: 100%;
 }
@@ -254,6 +257,8 @@ width: 50%;
 .trainer-bio p {
     font-size: 17px;
 }
+/*trainer section styling end*/
+
 /* Reach out styles start */
 .contact {
     background: #024e76;
@@ -315,6 +320,8 @@ width: 50%;
     font-size: 16px;
 }
 
+
+
 /*media query for smaller desktop screens and smaller */
 @media screen and (max-width: 980px) {
    header {
@@ -364,6 +371,13 @@ width: 50%;
 
 }
 
+.service-grid-item {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+}
 /*media query for tablets and smaller*/
 @media screen and (max-width: 768px) {
     section {
